@@ -1,0 +1,25 @@
+.outer{
+  padding: 0.5rem;
+}
+
+
+.cate ul li{
+  display:inline-block;
+  margin:0.5em;
+  padding: 0.5em;
+  border: solid 1px gray;
+}
+.cate ul li a{
+  text-decoration: none;
+}
+
+.footer-menu ul li{
+  display:block;
+  margin:0.2em;
+}
+.footer-menu ul {
+  list-style-type: none;
+  display:flex;
+}
+
+
